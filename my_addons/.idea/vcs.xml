@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/hw_assets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_exam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_offline_exam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_recruit_students" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_school" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_teaching" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw_zone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muk_web_theme" vcs="Git" />
+  </component>
+</project>
